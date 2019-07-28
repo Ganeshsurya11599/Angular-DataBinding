@@ -1,0 +1,23 @@
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
+input{
+    border:0;
+    border-bottom: 2px solid cadetblue;
+    outline-style: none;
+    text-align:center;
+    padding: 10px;
+    width:50%;
+    margin-left: 25%;
+}
+::placeholder{
+    color:dodgerblue;
+    text-align: center;
+}
+.container-fluid{
+    background-color:sienna;
+}
+.text{
+    color: darkred;
+}

@@ -1,0 +1,10 @@
+.container-fluid{
+    background-image: url(/assets/c.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    font-size: 30.5px;
+    color:aqua;
+    justify-content: center;
+}

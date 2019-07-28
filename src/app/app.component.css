@@ -1,0 +1,14 @@
+span a{
+    color:white;
+    text-decoration: none;
+    margin: 10px;
+}
+span a:hover{
+    color: black;
+}
+footer{
+    background-color: brown;
+    color:white;
+    text-align: center;
+    padding: 15px;
+}
